@@ -1,0 +1,14 @@
+/home/vi/Documents/.Net-fullstack/6-structures/bin/Debug/net10.0/6-structures
+/home/vi/Documents/.Net-fullstack/6-structures/bin/Debug/net10.0/6-structures.deps.json
+/home/vi/Documents/.Net-fullstack/6-structures/bin/Debug/net10.0/6-structures.runtimeconfig.json
+/home/vi/Documents/.Net-fullstack/6-structures/bin/Debug/net10.0/6-structures.dll
+/home/vi/Documents/.Net-fullstack/6-structures/bin/Debug/net10.0/6-structures.pdb
+/home/vi/Documents/.Net-fullstack/6-structures/obj/Debug/net10.0/6-structures.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/6-structures/obj/Debug/net10.0/6-structures.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/6-structures/obj/Debug/net10.0/6-structures.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/6-structures/obj/Debug/net10.0/6-structures.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/6-structures/obj/Debug/net10.0/6-structures.dll
+/home/vi/Documents/.Net-fullstack/6-structures/obj/Debug/net10.0/refint/6-structures.dll
+/home/vi/Documents/.Net-fullstack/6-structures/obj/Debug/net10.0/6-structures.pdb
+/home/vi/Documents/.Net-fullstack/6-structures/obj/Debug/net10.0/6-structures.genruntimeconfig.cache
+/home/vi/Documents/.Net-fullstack/6-structures/obj/Debug/net10.0/ref/6-structures.dll

@@ -1,0 +1,14 @@
+/home/vi/Documents/.Net-fullstack/9-exception-handling/bin/Debug/net10.0/9-exception-handling
+/home/vi/Documents/.Net-fullstack/9-exception-handling/bin/Debug/net10.0/9-exception-handling.deps.json
+/home/vi/Documents/.Net-fullstack/9-exception-handling/bin/Debug/net10.0/9-exception-handling.runtimeconfig.json
+/home/vi/Documents/.Net-fullstack/9-exception-handling/bin/Debug/net10.0/9-exception-handling.dll
+/home/vi/Documents/.Net-fullstack/9-exception-handling/bin/Debug/net10.0/9-exception-handling.pdb
+/home/vi/Documents/.Net-fullstack/9-exception-handling/obj/Debug/net10.0/9-exception-handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/9-exception-handling/obj/Debug/net10.0/9-exception-handling.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/9-exception-handling/obj/Debug/net10.0/9-exception-handling.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/9-exception-handling/obj/Debug/net10.0/9-exception-handling.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/9-exception-handling/obj/Debug/net10.0/9-exception-handling.dll
+/home/vi/Documents/.Net-fullstack/9-exception-handling/obj/Debug/net10.0/refint/9-exception-handling.dll
+/home/vi/Documents/.Net-fullstack/9-exception-handling/obj/Debug/net10.0/9-exception-handling.pdb
+/home/vi/Documents/.Net-fullstack/9-exception-handling/obj/Debug/net10.0/9-exception-handling.genruntimeconfig.cache
+/home/vi/Documents/.Net-fullstack/9-exception-handling/obj/Debug/net10.0/ref/9-exception-handling.dll

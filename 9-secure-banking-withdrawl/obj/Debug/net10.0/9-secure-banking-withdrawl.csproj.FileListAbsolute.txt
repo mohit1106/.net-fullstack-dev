@@ -1,0 +1,14 @@
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/bin/Debug/net10.0/9-secure-banking-withdrawl
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/bin/Debug/net10.0/9-secure-banking-withdrawl.deps.json
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/bin/Debug/net10.0/9-secure-banking-withdrawl.runtimeconfig.json
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/bin/Debug/net10.0/9-secure-banking-withdrawl.dll
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/bin/Debug/net10.0/9-secure-banking-withdrawl.pdb
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/obj/Debug/net10.0/9-secure-banking-withdrawl.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/obj/Debug/net10.0/9-secure-banking-withdrawl.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/obj/Debug/net10.0/9-secure-banking-withdrawl.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/obj/Debug/net10.0/9-secure-banking-withdrawl.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/obj/Debug/net10.0/9-secure-banking-withdrawl.dll
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/obj/Debug/net10.0/refint/9-secure-banking-withdrawl.dll
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/obj/Debug/net10.0/9-secure-banking-withdrawl.pdb
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/obj/Debug/net10.0/9-secure-banking-withdrawl.genruntimeconfig.cache
+/home/vi/Documents/.Net-fullstack/9-secure-banking-withdrawl/obj/Debug/net10.0/ref/9-secure-banking-withdrawl.dll

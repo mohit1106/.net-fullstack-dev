@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAGRXQn/HG4=",
+  "success": true,
+  "projectFilePath": "/home/vi/Documents/.Net-fullstack/10-regex/10-regex.csproj",
+  "expectedPackageFiles": [
+    "/home/vi/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

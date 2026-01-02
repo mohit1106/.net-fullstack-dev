@@ -1,0 +1,14 @@
+/home/vi/Documents/.Net-fullstack/10-regex/bin/Debug/net10.0/10-regex
+/home/vi/Documents/.Net-fullstack/10-regex/bin/Debug/net10.0/10-regex.deps.json
+/home/vi/Documents/.Net-fullstack/10-regex/bin/Debug/net10.0/10-regex.runtimeconfig.json
+/home/vi/Documents/.Net-fullstack/10-regex/bin/Debug/net10.0/10-regex.dll
+/home/vi/Documents/.Net-fullstack/10-regex/bin/Debug/net10.0/10-regex.pdb
+/home/vi/Documents/.Net-fullstack/10-regex/obj/Debug/net10.0/10-regex.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/10-regex/obj/Debug/net10.0/10-regex.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/10-regex/obj/Debug/net10.0/10-regex.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/10-regex/obj/Debug/net10.0/10-regex.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/10-regex/obj/Debug/net10.0/10-regex.dll
+/home/vi/Documents/.Net-fullstack/10-regex/obj/Debug/net10.0/refint/10-regex.dll
+/home/vi/Documents/.Net-fullstack/10-regex/obj/Debug/net10.0/10-regex.pdb
+/home/vi/Documents/.Net-fullstack/10-regex/obj/Debug/net10.0/10-regex.genruntimeconfig.cache
+/home/vi/Documents/.Net-fullstack/10-regex/obj/Debug/net10.0/ref/10-regex.dll

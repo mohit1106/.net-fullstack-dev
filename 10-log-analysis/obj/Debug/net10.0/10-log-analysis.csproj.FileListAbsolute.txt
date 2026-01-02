@@ -1,0 +1,14 @@
+/home/vi/Documents/.Net-fullstack/10-log-analysis/obj/Debug/net10.0/10-log-analysis.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/10-log-analysis/obj/Debug/net10.0/10-log-analysis.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/10-log-analysis/obj/Debug/net10.0/10-log-analysis.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/10-log-analysis/obj/Debug/net10.0/10-log-analysis.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/10-log-analysis/bin/Debug/net10.0/10-log-analysis
+/home/vi/Documents/.Net-fullstack/10-log-analysis/bin/Debug/net10.0/10-log-analysis.deps.json
+/home/vi/Documents/.Net-fullstack/10-log-analysis/bin/Debug/net10.0/10-log-analysis.runtimeconfig.json
+/home/vi/Documents/.Net-fullstack/10-log-analysis/bin/Debug/net10.0/10-log-analysis.dll
+/home/vi/Documents/.Net-fullstack/10-log-analysis/bin/Debug/net10.0/10-log-analysis.pdb
+/home/vi/Documents/.Net-fullstack/10-log-analysis/obj/Debug/net10.0/10-log-analysis.dll
+/home/vi/Documents/.Net-fullstack/10-log-analysis/obj/Debug/net10.0/refint/10-log-analysis.dll
+/home/vi/Documents/.Net-fullstack/10-log-analysis/obj/Debug/net10.0/10-log-analysis.pdb
+/home/vi/Documents/.Net-fullstack/10-log-analysis/obj/Debug/net10.0/10-log-analysis.genruntimeconfig.cache
+/home/vi/Documents/.Net-fullstack/10-log-analysis/obj/Debug/net10.0/ref/10-log-analysis.dll

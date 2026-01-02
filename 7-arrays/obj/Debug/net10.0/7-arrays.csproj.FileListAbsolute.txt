@@ -1,0 +1,14 @@
+/home/vi/Documents/.Net-fullstack/7-arrays/bin/Debug/net10.0/7-arrays
+/home/vi/Documents/.Net-fullstack/7-arrays/bin/Debug/net10.0/7-arrays.deps.json
+/home/vi/Documents/.Net-fullstack/7-arrays/bin/Debug/net10.0/7-arrays.runtimeconfig.json
+/home/vi/Documents/.Net-fullstack/7-arrays/bin/Debug/net10.0/7-arrays.dll
+/home/vi/Documents/.Net-fullstack/7-arrays/bin/Debug/net10.0/7-arrays.pdb
+/home/vi/Documents/.Net-fullstack/7-arrays/obj/Debug/net10.0/7-arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/7-arrays/obj/Debug/net10.0/7-arrays.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/7-arrays/obj/Debug/net10.0/7-arrays.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/7-arrays/obj/Debug/net10.0/7-arrays.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/7-arrays/obj/Debug/net10.0/7-arrays.dll
+/home/vi/Documents/.Net-fullstack/7-arrays/obj/Debug/net10.0/refint/7-arrays.dll
+/home/vi/Documents/.Net-fullstack/7-arrays/obj/Debug/net10.0/7-arrays.pdb
+/home/vi/Documents/.Net-fullstack/7-arrays/obj/Debug/net10.0/7-arrays.genruntimeconfig.cache
+/home/vi/Documents/.Net-fullstack/7-arrays/obj/Debug/net10.0/ref/7-arrays.dll
