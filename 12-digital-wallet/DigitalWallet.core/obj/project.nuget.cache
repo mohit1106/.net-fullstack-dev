@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UZKInSs8H5w=",
+  "success": true,
+  "projectFilePath": "/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/DigitalWallet.core.csproj",
+  "expectedPackageFiles": [
+    "/home/vi/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

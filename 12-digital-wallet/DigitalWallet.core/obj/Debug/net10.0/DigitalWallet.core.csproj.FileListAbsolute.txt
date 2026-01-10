@@ -1,0 +1,12 @@
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/bin/Debug/net10.0/DigitalWallet.core.deps.json
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/bin/Debug/net10.0/DigitalWallet.core.dll
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/bin/Debug/net10.0/DigitalWallet.core.pdb
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/obj/Debug/net10.0/DigitalWallet.core.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/obj/Debug/net10.0/DigitalWallet.core.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/obj/Debug/net10.0/DigitalWallet.core.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/obj/Debug/net10.0/DigitalWallet.core.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/obj/Debug/net10.0/DigitalWallet.core.sourcelink.json
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/obj/Debug/net10.0/DigitalWallet.core.dll
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/obj/Debug/net10.0/refint/DigitalWallet.core.dll
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/obj/Debug/net10.0/DigitalWallet.core.pdb
+/home/vi/Documents/.Net-fullstack/12-digital-wallet/DigitalWallet.core/obj/Debug/net10.0/ref/DigitalWallet.core.dll

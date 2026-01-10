@@ -33,4 +33,9 @@ class Program
         ILocker locker = new FileLogger();
         locker.Log();  
     }
+
 }
+ 
+ class CardioLogist : Doctor {
+    
+ }

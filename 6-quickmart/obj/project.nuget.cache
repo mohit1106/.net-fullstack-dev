@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YKPNBWn+qHo=",
+  "success": true,
+  "projectFilePath": "/home/vi/Documents/.Net-fullstack/6-quickmart/6-quickmart.csproj",
+  "expectedPackageFiles": [
+    "/home/vi/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

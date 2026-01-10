@@ -1,0 +1,15 @@
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/bin/Debug/net10.0/14-sugar-bliss
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/bin/Debug/net10.0/14-sugar-bliss.deps.json
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/bin/Debug/net10.0/14-sugar-bliss.runtimeconfig.json
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/bin/Debug/net10.0/14-sugar-bliss.dll
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/bin/Debug/net10.0/14-sugar-bliss.pdb
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/obj/Debug/net10.0/14-sugar-bliss.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/obj/Debug/net10.0/14-sugar-bliss.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/obj/Debug/net10.0/14-sugar-bliss.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/obj/Debug/net10.0/14-sugar-bliss.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/obj/Debug/net10.0/14-sugar-bliss.sourcelink.json
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/obj/Debug/net10.0/14-sugar-bliss.dll
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/obj/Debug/net10.0/refint/14-sugar-bliss.dll
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/obj/Debug/net10.0/14-sugar-bliss.pdb
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/obj/Debug/net10.0/14-sugar-bliss.genruntimeconfig.cache
+/home/vi/Documents/.Net-fullstack/14-sugar-bliss/obj/Debug/net10.0/ref/14-sugar-bliss.dll

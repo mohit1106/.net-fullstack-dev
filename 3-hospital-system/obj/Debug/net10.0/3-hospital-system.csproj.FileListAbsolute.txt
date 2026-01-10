@@ -1,0 +1,15 @@
+/home/vi/Documents/.Net-fullstack/3-hospital-system/obj/Debug/net10.0/3-hospital-system.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/3-hospital-system/obj/Debug/net10.0/3-hospital-system.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/3-hospital-system/obj/Debug/net10.0/3-hospital-system.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/3-hospital-system/obj/Debug/net10.0/3-hospital-system.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/3-hospital-system/obj/Debug/net10.0/3-hospital-system.sourcelink.json
+/home/vi/Documents/.Net-fullstack/3-hospital-system/bin/Debug/net10.0/3-hospital-system
+/home/vi/Documents/.Net-fullstack/3-hospital-system/bin/Debug/net10.0/3-hospital-system.deps.json
+/home/vi/Documents/.Net-fullstack/3-hospital-system/bin/Debug/net10.0/3-hospital-system.runtimeconfig.json
+/home/vi/Documents/.Net-fullstack/3-hospital-system/bin/Debug/net10.0/3-hospital-system.dll
+/home/vi/Documents/.Net-fullstack/3-hospital-system/bin/Debug/net10.0/3-hospital-system.pdb
+/home/vi/Documents/.Net-fullstack/3-hospital-system/obj/Debug/net10.0/3-hospital-system.dll
+/home/vi/Documents/.Net-fullstack/3-hospital-system/obj/Debug/net10.0/refint/3-hospital-system.dll
+/home/vi/Documents/.Net-fullstack/3-hospital-system/obj/Debug/net10.0/3-hospital-system.pdb
+/home/vi/Documents/.Net-fullstack/3-hospital-system/obj/Debug/net10.0/3-hospital-system.genruntimeconfig.cache
+/home/vi/Documents/.Net-fullstack/3-hospital-system/obj/Debug/net10.0/ref/3-hospital-system.dll

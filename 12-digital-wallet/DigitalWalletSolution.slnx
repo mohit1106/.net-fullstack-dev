@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DigitalWallet.core/DigitalWallet.core.csproj" />
+  <Project Path="DigitalWallet/DigitalWallet.csproj" />
+</Solution>

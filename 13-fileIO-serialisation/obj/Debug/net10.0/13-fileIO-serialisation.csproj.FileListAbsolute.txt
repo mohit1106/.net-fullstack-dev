@@ -1,0 +1,15 @@
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/bin/Debug/net10.0/13-fileIO-serialisation
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/bin/Debug/net10.0/13-fileIO-serialisation.deps.json
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/bin/Debug/net10.0/13-fileIO-serialisation.runtimeconfig.json
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/bin/Debug/net10.0/13-fileIO-serialisation.dll
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/bin/Debug/net10.0/13-fileIO-serialisation.pdb
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/obj/Debug/net10.0/13-fileIO-serialisation.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/obj/Debug/net10.0/13-fileIO-serialisation.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/obj/Debug/net10.0/13-fileIO-serialisation.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/obj/Debug/net10.0/13-fileIO-serialisation.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/obj/Debug/net10.0/13-fileIO-serialisation.sourcelink.json
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/obj/Debug/net10.0/13-fileIO-serialisation.dll
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/obj/Debug/net10.0/refint/13-fileIO-serialisation.dll
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/obj/Debug/net10.0/13-fileIO-serialisation.pdb
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/obj/Debug/net10.0/13-fileIO-serialisation.genruntimeconfig.cache
+/home/vi/Documents/.Net-fullstack/13-fileIO-serialisation/obj/Debug/net10.0/ref/13-fileIO-serialisation.dll

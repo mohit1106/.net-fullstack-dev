@@ -1,0 +1,15 @@
+/home/vi/Documents/.Net-fullstack/13-deligate/obj/Debug/net10.0/13-deligate.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/13-deligate/obj/Debug/net10.0/13-deligate.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/13-deligate/obj/Debug/net10.0/13-deligate.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/13-deligate/obj/Debug/net10.0/13-deligate.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/13-deligate/obj/Debug/net10.0/13-deligate.sourcelink.json
+/home/vi/Documents/.Net-fullstack/13-deligate/bin/Debug/net10.0/13-deligate
+/home/vi/Documents/.Net-fullstack/13-deligate/bin/Debug/net10.0/13-deligate.deps.json
+/home/vi/Documents/.Net-fullstack/13-deligate/bin/Debug/net10.0/13-deligate.runtimeconfig.json
+/home/vi/Documents/.Net-fullstack/13-deligate/bin/Debug/net10.0/13-deligate.dll
+/home/vi/Documents/.Net-fullstack/13-deligate/bin/Debug/net10.0/13-deligate.pdb
+/home/vi/Documents/.Net-fullstack/13-deligate/obj/Debug/net10.0/13-deligate.dll
+/home/vi/Documents/.Net-fullstack/13-deligate/obj/Debug/net10.0/refint/13-deligate.dll
+/home/vi/Documents/.Net-fullstack/13-deligate/obj/Debug/net10.0/13-deligate.pdb
+/home/vi/Documents/.Net-fullstack/13-deligate/obj/Debug/net10.0/13-deligate.genruntimeconfig.cache
+/home/vi/Documents/.Net-fullstack/13-deligate/obj/Debug/net10.0/ref/13-deligate.dll

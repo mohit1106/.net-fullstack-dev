@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11-garbage-collector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c338333469395431d540038473ee1b344ac62ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("11-garbage-collector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11-garbage-collector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

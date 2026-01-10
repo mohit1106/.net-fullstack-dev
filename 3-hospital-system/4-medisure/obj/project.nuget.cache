@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "85lv0Q5CVyI=",
+  "success": true,
+  "projectFilePath": "/home/vi/Documents/.Net-fullstack/3-hospital-system/4-medisure/4-medisure.csproj",
+  "expectedPackageFiles": [
+    "/home/vi/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
