@@ -23,7 +23,6 @@ public class Program
     public Chocolate CalculateDiscountedPrice(Chocolate chocolate)
     {
         chocolate.TotalPrice = chocolate.Quantity * chocolate.PricePerUnit;
-
         double discountPercentage = 0;
 
         if (chocolate.Flavour == "Dark")
