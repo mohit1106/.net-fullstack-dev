@@ -1,0 +1,5 @@
+/home/vi/Documents/.Net-fullstack/16-threading-async-programming/obj/Debug/net10.0/16-threading-async-programming.GeneratedMSBuildEditorConfig.editorconfig
+/home/vi/Documents/.Net-fullstack/16-threading-async-programming/obj/Debug/net10.0/16-threading-async-programming.AssemblyInfoInputs.cache
+/home/vi/Documents/.Net-fullstack/16-threading-async-programming/obj/Debug/net10.0/16-threading-async-programming.AssemblyInfo.cs
+/home/vi/Documents/.Net-fullstack/16-threading-async-programming/obj/Debug/net10.0/16-threading-async-programming.csproj.CoreCompileInputs.cache
+/home/vi/Documents/.Net-fullstack/16-threading-async-programming/obj/Debug/net10.0/16-threading-async-programming.sourcelink.json
