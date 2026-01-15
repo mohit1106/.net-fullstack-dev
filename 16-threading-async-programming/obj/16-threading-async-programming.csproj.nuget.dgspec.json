@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/vi/Documents/.Net-fullstack/16-threading-async-programming/16-threading-async-programming.csproj": {}
+    "D:\\Computer Eng\\.net-fullstack-dev\\16-threading-async-programming\\16-threading-async-programming.csproj": {}
   },
   "projects": {
-    "/home/vi/Documents/.Net-fullstack/16-threading-async-programming/16-threading-async-programming.csproj": {
+    "D:\\Computer Eng\\.net-fullstack-dev\\16-threading-async-programming\\16-threading-async-programming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vi/Documents/.Net-fullstack/16-threading-async-programming/16-threading-async-programming.csproj",
+        "projectUniqueName": "D:\\Computer Eng\\.net-fullstack-dev\\16-threading-async-programming\\16-threading-async-programming.csproj",
         "projectName": "16-threading-async-programming",
-        "projectPath": "/home/vi/Documents/.Net-fullstack/16-threading-async-programming/16-threading-async-programming.csproj",
-        "packagesPath": "/home/vi/.nuget/packages/",
-        "outputPath": "/home/vi/Documents/.Net-fullstack/16-threading-async-programming/obj/",
+        "projectPath": "D:\\Computer Eng\\.net-fullstack-dev\\16-threading-async-programming\\16-threading-async-programming.csproj",
+        "packagesPath": "C:\\Users\\mohit\\.nuget\\packages\\",
+        "outputPath": "D:\\Computer Eng\\.net-fullstack-dev\\16-threading-async-programming\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/vi/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mohit\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -54,18 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[10.0.0, 10.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Computer Eng\\.net cg training\\1_firstApp\\1_firstApp.csproj",
+      "projectUniqueName": "D:\\Computer Eng\\.net-fullstack-dev\\1_firstApp\\1_firstApp.csproj",
       "projectName": "1_firstApp",
-      "projectPath": "D:\\Computer Eng\\.net cg training\\1_firstApp\\1_firstApp.csproj",
+      "projectPath": "D:\\Computer Eng\\.net-fullstack-dev\\1_firstApp\\1_firstApp.csproj",
       "packagesPath": "C:\\Users\\mohit\\.nuget\\packages\\",
-      "outputPath": "D:\\Computer Eng\\.net cg training\\1_firstApp\\obj\\",
+      "outputPath": "D:\\Computer Eng\\.net-fullstack-dev\\1_firstApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohit\\AppData\\Roaming\\NuGet\\NuGet.Config"

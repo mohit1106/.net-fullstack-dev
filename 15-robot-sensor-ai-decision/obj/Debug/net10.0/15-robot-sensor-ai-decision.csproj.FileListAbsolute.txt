@@ -1,0 +1,15 @@
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\bin\Debug\net10.0\15-robot-sensor-ai-decision.exe
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\bin\Debug\net10.0\15-robot-sensor-ai-decision.deps.json
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\bin\Debug\net10.0\15-robot-sensor-ai-decision.runtimeconfig.json
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\bin\Debug\net10.0\15-robot-sensor-ai-decision.dll
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\bin\Debug\net10.0\15-robot-sensor-ai-decision.pdb
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\obj\Debug\net10.0\15-robot-sensor-ai-decision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\obj\Debug\net10.0\15-robot-sensor-ai-decision.AssemblyInfoInputs.cache
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\obj\Debug\net10.0\15-robot-sensor-ai-decision.AssemblyInfo.cs
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\obj\Debug\net10.0\15-robot-sensor-ai-decision.csproj.CoreCompileInputs.cache
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\obj\Debug\net10.0\15-robot-sensor-ai-decision.sourcelink.json
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\obj\Debug\net10.0\15-robot-sensor-ai-decision.dll
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\obj\Debug\net10.0\refint\15-robot-sensor-ai-decision.dll
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\obj\Debug\net10.0\15-robot-sensor-ai-decision.pdb
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\obj\Debug\net10.0\15-robot-sensor-ai-decision.genruntimeconfig.cache
+D:\Computer Eng\.net-fullstack-dev\15-robot-sensor-ai-decision\obj\Debug\net10.0\ref\15-robot-sensor-ai-decision.dll

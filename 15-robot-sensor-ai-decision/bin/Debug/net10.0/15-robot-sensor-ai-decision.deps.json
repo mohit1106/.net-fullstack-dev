@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "15-robot-sensor-ai-decision/1.0.0": {
+        "runtime": {
+          "15-robot-sensor-ai-decision.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "15-robot-sensor-ai-decision/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

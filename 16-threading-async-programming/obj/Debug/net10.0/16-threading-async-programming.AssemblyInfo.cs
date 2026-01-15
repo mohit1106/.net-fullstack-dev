@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("16-threading-async-programming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+272a4b40b8ecd13846d41d78e7a44d7dcc7734c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5280fec0656ad4b9ee794d9f0b7285a033ac2e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("16-threading-async-programming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("16-threading-async-programming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

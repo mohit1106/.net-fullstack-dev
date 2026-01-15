@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wnKCDTkjRrU=",
+  "dgSpecHash": "ZGz1tfnC5jE=",
   "success": true,
-  "projectFilePath": "/home/vi/Documents/.Net-fullstack/16-threading-async-programming/16-threading-async-programming.csproj",
-  "expectedPackageFiles": [
-    "/home/vi/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Computer Eng\\.net-fullstack-dev\\16-threading-async-programming\\16-threading-async-programming.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
