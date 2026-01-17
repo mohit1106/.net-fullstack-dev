@@ -1,0 +1,15 @@
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\bin\Debug\net10.0\16-social-media-application.exe
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\bin\Debug\net10.0\16-social-media-application.deps.json
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\bin\Debug\net10.0\16-social-media-application.runtimeconfig.json
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\bin\Debug\net10.0\16-social-media-application.dll
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\bin\Debug\net10.0\16-social-media-application.pdb
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\obj\Debug\net10.0\16-social-media-application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\obj\Debug\net10.0\16-social-media-application.AssemblyInfoInputs.cache
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\obj\Debug\net10.0\16-social-media-application.AssemblyInfo.cs
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\obj\Debug\net10.0\16-social-media-application.csproj.CoreCompileInputs.cache
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\obj\Debug\net10.0\16-social-media-application.sourcelink.json
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\obj\Debug\net10.0\16-social-media-application.dll
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\obj\Debug\net10.0\refint\16-social-media-application.dll
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\obj\Debug\net10.0\16-social-media-application.pdb
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\obj\Debug\net10.0\16-social-media-application.genruntimeconfig.cache
+D:\Computer Eng\.net-fullstack-dev\16-social-media-application\obj\Debug\net10.0\ref\16-social-media-application.dll
