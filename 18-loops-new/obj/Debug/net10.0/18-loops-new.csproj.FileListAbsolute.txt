@@ -1,0 +1,15 @@
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\bin\Debug\net10.0\18-loops-new.exe
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\bin\Debug\net10.0\18-loops-new.deps.json
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\bin\Debug\net10.0\18-loops-new.runtimeconfig.json
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\bin\Debug\net10.0\18-loops-new.dll
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\bin\Debug\net10.0\18-loops-new.pdb
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\obj\Debug\net10.0\18-loops-new.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\obj\Debug\net10.0\18-loops-new.AssemblyInfoInputs.cache
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\obj\Debug\net10.0\18-loops-new.AssemblyInfo.cs
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\obj\Debug\net10.0\18-loops-new.csproj.CoreCompileInputs.cache
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\obj\Debug\net10.0\18-loops-new.sourcelink.json
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\obj\Debug\net10.0\18-loops-new.dll
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\obj\Debug\net10.0\refint\18-loops-new.dll
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\obj\Debug\net10.0\18-loops-new.pdb
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\obj\Debug\net10.0\18-loops-new.genruntimeconfig.cache
+D:\Computer Eng\.net-fullstack-dev\18-loops-new\obj\Debug\net10.0\ref\18-loops-new.dll
