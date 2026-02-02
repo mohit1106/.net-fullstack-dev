@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8-streamBuzz-console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bfb852dfa2909a1a099a73679bf570134131fee")]
 [assembly: System.Reflection.AssemblyProductAttribute("8-streamBuzz-console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8-streamBuzz-console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

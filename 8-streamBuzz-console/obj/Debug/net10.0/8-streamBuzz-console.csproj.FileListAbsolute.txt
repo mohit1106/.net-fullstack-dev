@@ -12,3 +12,4 @@
 /home/vi/Documents/.Net-fullstack/8-streamBuzz-console/obj/Debug/net10.0/8-streamBuzz-console.pdb
 /home/vi/Documents/.Net-fullstack/8-streamBuzz-console/obj/Debug/net10.0/8-streamBuzz-console.genruntimeconfig.cache
 /home/vi/Documents/.Net-fullstack/8-streamBuzz-console/obj/Debug/net10.0/ref/8-streamBuzz-console.dll
+/home/vi/Documents/.Net-fullstack/8-streamBuzz-console/obj/Debug/net10.0/8-streamBuzz-console.sourcelink.json

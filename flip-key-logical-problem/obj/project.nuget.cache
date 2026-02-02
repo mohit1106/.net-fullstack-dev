@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LM97YJECtNQ=",
+  "success": true,
+  "projectFilePath": "/home/vi/Documents/.Net-fullstack/flip-key-logical-problem/flip-key-logical-problem.csproj",
+  "expectedPackageFiles": [
+    "/home/vi/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
