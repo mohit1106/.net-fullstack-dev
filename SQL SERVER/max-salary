@@ -1,0 +1,7 @@
+SELECT Dept, Name, Salary
+FROM (
+    SELECT Dept, Name, Salary,
+           RANK() OVER (PARTITION BY Dept ORDER BY Salary DESC) AS rnk
+    FROM Employees
+) t
+WHERE rnk = 1;
