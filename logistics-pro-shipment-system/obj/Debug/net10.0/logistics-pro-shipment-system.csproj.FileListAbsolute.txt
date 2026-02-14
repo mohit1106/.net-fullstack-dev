@@ -1,0 +1,15 @@
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\bin\Debug\net10.0\logistics-pro-shipment-system.exe
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\bin\Debug\net10.0\logistics-pro-shipment-system.deps.json
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\bin\Debug\net10.0\logistics-pro-shipment-system.runtimeconfig.json
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\bin\Debug\net10.0\logistics-pro-shipment-system.dll
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\bin\Debug\net10.0\logistics-pro-shipment-system.pdb
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\obj\Debug\net10.0\logistics-pro-shipment-system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\obj\Debug\net10.0\logistics-pro-shipment-system.AssemblyInfoInputs.cache
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\obj\Debug\net10.0\logistics-pro-shipment-system.AssemblyInfo.cs
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\obj\Debug\net10.0\logistics-pro-shipment-system.csproj.CoreCompileInputs.cache
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\obj\Debug\net10.0\logistics-pro-shipment-system.sourcelink.json
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\obj\Debug\net10.0\logistics-pro-shipment-system.dll
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\obj\Debug\net10.0\refint\logistics-pro-shipment-system.dll
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\obj\Debug\net10.0\logistics-pro-shipment-system.pdb
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\obj\Debug\net10.0\logistics-pro-shipment-system.genruntimeconfig.cache
+D:\Computer Eng\.net-fullstack-dev\logistics-pro-shipment-system\obj\Debug\net10.0\ref\logistics-pro-shipment-system.dll

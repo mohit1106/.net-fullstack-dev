@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Computer Eng\\.net cg training\\2_loops\\2_loops.csproj": {}
+    "D:\\Computer Eng\\.net-fullstack-dev\\2_loops\\2_loops.csproj": {}
   },
   "projects": {
-    "D:\\Computer Eng\\.net cg training\\2_loops\\2_loops.csproj": {
+    "D:\\Computer Eng\\.net-fullstack-dev\\2_loops\\2_loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Computer Eng\\.net cg training\\2_loops\\2_loops.csproj",
+        "projectUniqueName": "D:\\Computer Eng\\.net-fullstack-dev\\2_loops\\2_loops.csproj",
         "projectName": "2_loops",
-        "projectPath": "D:\\Computer Eng\\.net cg training\\2_loops\\2_loops.csproj",
+        "projectPath": "D:\\Computer Eng\\.net-fullstack-dev\\2_loops\\2_loops.csproj",
         "packagesPath": "C:\\Users\\mohit\\.nuget\\packages\\",
-        "outputPath": "D:\\Computer Eng\\.net cg training\\2_loops\\obj\\",
+        "outputPath": "D:\\Computer Eng\\.net-fullstack-dev\\2_loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohit\\AppData\\Roaming\\NuGet\\NuGet.Config"
