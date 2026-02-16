@@ -128,3 +128,6 @@ SELECT
 
 FROM Customers c
 JOIN Accounts a ON c.CustomerID = a.CustomerID;
+
+
+
