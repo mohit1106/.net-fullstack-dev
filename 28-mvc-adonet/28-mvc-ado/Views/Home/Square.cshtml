@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "Square Calculator";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Square Calculator</h1>
+    <form method="post" asp-action="Square">
+        <div class="form-group">
+            <label for="number">Enter a number:</label>
+            <input type="text" class="form-control" id="number" name="number" required />
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Calculate</button>
+    </form>
+
+    @if (ViewBag.Result != null)
+    {
+        <div class="mt-4 alert alert-info">
+            <h3>Result: @ViewBag.Result</h3>
+        </div>
+    }
+</div>

@@ -1,0 +1,22 @@
+@model IEnumerable<MVCwithADO.Models.Student>
+
+<h2>Students List</h2>
+
+<table border="1" cellpadding="8">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>City</th>
+    </tr>
+
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@s.Id</td>
+            <td>@s.Name</td>
+            <td>@s.Age</td>
+            <td>@s.City</td>
+        </tr>
+    }
+</table>
