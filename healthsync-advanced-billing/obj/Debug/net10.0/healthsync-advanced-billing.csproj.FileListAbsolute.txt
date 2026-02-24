@@ -1,0 +1,15 @@
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\bin\Debug\net10.0\healthsync-advanced-billing.exe
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\bin\Debug\net10.0\healthsync-advanced-billing.deps.json
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\bin\Debug\net10.0\healthsync-advanced-billing.runtimeconfig.json
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\bin\Debug\net10.0\healthsync-advanced-billing.dll
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\bin\Debug\net10.0\healthsync-advanced-billing.pdb
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\obj\Debug\net10.0\healthsync-advanced-billing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\obj\Debug\net10.0\healthsync-advanced-billing.AssemblyInfoInputs.cache
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\obj\Debug\net10.0\healthsync-advanced-billing.AssemblyInfo.cs
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\obj\Debug\net10.0\healthsync-advanced-billing.csproj.CoreCompileInputs.cache
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\obj\Debug\net10.0\healthsync-advanced-billing.sourcelink.json
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\obj\Debug\net10.0\healthsync-advanced-billing.dll
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\obj\Debug\net10.0\refint\healthsync-advanced-billing.dll
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\obj\Debug\net10.0\healthsync-advanced-billing.pdb
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\obj\Debug\net10.0\healthsync-advanced-billing.genruntimeconfig.cache
+D:\Computer Eng\.net-fullstack-dev\healthsync-advanced-billing\obj\Debug\net10.0\ref\healthsync-advanced-billing.dll
