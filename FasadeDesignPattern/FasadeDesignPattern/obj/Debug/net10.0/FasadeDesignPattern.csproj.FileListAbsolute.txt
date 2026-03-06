@@ -1,0 +1,15 @@
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\obj\Debug\net10.0\FasadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\obj\Debug\net10.0\FasadeDesignPattern.AssemblyInfoInputs.cache
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\obj\Debug\net10.0\FasadeDesignPattern.AssemblyInfo.cs
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\obj\Debug\net10.0\FasadeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\obj\Debug\net10.0\FasadeDesignPattern.sourcelink.json
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\bin\Debug\net10.0\FasadeDesignPattern.exe
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\bin\Debug\net10.0\FasadeDesignPattern.deps.json
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\bin\Debug\net10.0\FasadeDesignPattern.runtimeconfig.json
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\bin\Debug\net10.0\FasadeDesignPattern.dll
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\bin\Debug\net10.0\FasadeDesignPattern.pdb
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\obj\Debug\net10.0\FasadeDesignPattern.dll
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\obj\Debug\net10.0\refint\FasadeDesignPattern.dll
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\obj\Debug\net10.0\FasadeDesignPattern.pdb
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\obj\Debug\net10.0\FasadeDesignPattern.genruntimeconfig.cache
+D:\Computer Eng\.net-fullstack-dev\FasadeDesignPattern\FasadeDesignPattern\obj\Debug\net10.0\ref\FasadeDesignPattern.dll

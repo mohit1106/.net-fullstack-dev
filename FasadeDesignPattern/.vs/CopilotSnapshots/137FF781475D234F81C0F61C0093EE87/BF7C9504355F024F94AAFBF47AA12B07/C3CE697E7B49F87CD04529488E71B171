@@ -1,0 +1,41 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace FasadeDesignPattern
+{
+    internal class FacadePattern
+    {
+    }
+}
+
+    internal class IceCreamFacade
+    {
+        private readonly FlavourService _flavourService;
+        private readonly ConeService _coneService;
+        private readonly PaymentService _paymentService;
+
+        public IceCreamFacade()
+        {
+            _flavourService = new FlavourService();
+            _coneService = new ConeService();
+            _paymentService = new PaymentService();
+        }
+
+        public string GetIceCream()
+        {
+            // Simple flow: charge customer, then prepare cone + flavour
+            bool paid = _paymentService.Charge(5.00m);
+            if (!paid)
+            {
+                return "Payment failed";
+            }
+
+            string cone = _coneService.GetCone();
+            string flavour = _flavourService.GetFlavour();
+
+            return $"{flavour} in {cone}";
+        }
+    }
+
+

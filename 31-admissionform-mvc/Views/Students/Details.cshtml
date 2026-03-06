@@ -1,0 +1,91 @@
+@model _31_admissionform_mvc.Models.Student
+
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="form-card">
+                <h1 class="page-title">Student Details</h1>
+                
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">First Name</label>
+                        <p class="form-control-static">@Model.FirstName</p>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Last Name</label>
+                        <p class="form-control-static">@Model.LastName</p>
+                    </div>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Email</label>
+                        <p class="form-control-static">
+                            <a href="mailto:@Model.Email">@Model.Email</a>
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Phone</label>
+                        <p class="form-control-static">@Model.Phone</p>
+                    </div>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Date of Birth</label>
+                        <p class="form-control-static">@Model.DateOfBirth.ToString("dd MMMM yyyy")</p>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Gender</label>
+                        <p class="form-control-static">@Model.Gender</p>
+                    </div>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Course</label>
+                        <p class="form-control-static">
+                            <span class="badge bg-info text-dark">@Model.Course</span>
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Admission Date</label>
+                        <p class="form-control-static">@Model.AdmissionDate.ToString("dd MMMM yyyy HH:mm:ss")</p>
+                    </div>
+                </div>
+
+                <div class="row mb-4">
+                    <div class="col-md-12">
+                        <label class="form-label fw-bold">Status</label>
+                        <p class="form-control-static">
+                            @if (Model.IsActive)
+                            {
+                                <span class="badge bg-success">Active</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-danger">Inactive</span>
+                            }
+                        </p>
+                    </div>
+                </div>
+
+                <div class="form-actions">
+                    <a asp-action="Edit" asp-route-id="@Model.StudentId" class="btn btn-warning btn-lg">
+                        <i class="icon">✏️</i> Edit
+                    </a>
+                    <a asp-action="Delete" asp-route-id="@Model.StudentId" class="btn btn-danger btn-lg">
+                        <i class="icon">🗑️</i> Delete
+                    </a>
+                    <a asp-action="Index" class="btn btn-secondary btn-lg">
+                        <i class="icon">⬅️</i> Back to List
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
