@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ProducerAPI/ProducerAPI.csproj" />
+    <Project Path="src/SquareService/SquareService.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zz8RYCbUHnE=",
+  "success": true,
+  "projectFilePath": "d:\\computer-eng\\.net-fullstack-dev\\rabbitmqWebAPI\\src\\ProducerAPI\\ProducerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohit\\.nuget\\packages\\rabbitmq.client\\7.2.1\\rabbitmq.client.7.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

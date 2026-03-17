@@ -1,0 +1,62 @@
+﻿using Microsoft.Data.SqlClient;
+using System.Data;
+using WebApplication1.Models;
+
+namespace WebApplication1.Services
+{
+    public class StudentService
+    {
+        private readonly string _connectionString;
+
+        public StudentService(IConfiguration configuration)
+        {
+            _connectionString = configuration.GetConnectionString("DefaultConnection")
+                ?? throw new InvalidOperationException("Connection string not found.");
+        }
+
+        public async Task<StudentPagedResult> GetStudentsPagedAsync(int pageNumber, int pageSize = 5)
+        {
+            var result = new StudentPagedResult
+            {
+                PageNumber = pageNumber,
+                PageSize = pageSize
+            };
+
+            using var connection = new SqlConnection(_connectionString);
+            using var command = new SqlCommand("sp_GetStudentsPaged", connection)
+            {
+                CommandType = CommandType.StoredProcedure
+            };
+
+            command.Parameters.AddWithValue("@PageNumber", pageNumber);
+            command.Parameters.AddWithValue("@PageSize", pageSize);
+
+            await connection.OpenAsync();
+
+            using var reader = await command.ExecuteReaderAsync();
+
+            // Read total count
+            if (await reader.ReadAsync())
+            {
+                result.TotalCount = reader.GetInt32(0);
+            }
+
+            // Move to next result set (paginated records)
+            await reader.NextResultAsync();
+
+            // Read students
+            while (await reader.ReadAsync())
+            {
+                result.Students.Add(new Student
+                {
+                    Id = reader.GetInt32(reader.GetOrdinal("Id")),
+                    Name = reader.GetString(reader.GetOrdinal("Name")),
+                    Age = reader.GetInt32(reader.GetOrdinal("Age")),
+                    City = reader.GetString(reader.GetOrdinal("City"))
+                });
+            }
+
+            return result;
+        }
+    }
+}

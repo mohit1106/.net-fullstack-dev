@@ -1,0 +1,21 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using WebApplication1.Services;
+
+namespace WebApplication1.Controllers
+{
+    public class StudentsController : Controller
+    {
+        private readonly StudentService _studentService;
+
+        public StudentsController(StudentService studentService)
+        {
+            _studentService = studentService;
+        }
+
+        public async Task<IActionResult> Index(int page = 1)
+        {
+            var result = await _studentService.GetStudentsPagedAsync(page, 5);
+            return View(result);
+        }
+    }
+}

@@ -1,0 +1,51 @@
+using Microsoft.Data.SqlClient;
+using System.Data;
+using WebApplication1.Models;
+
+namespace WebApplication1.Services
+{
+    public class StudentService
+    {
+        private readonly string _connectionString;
+
+        public StudentService(IConfiguration configuration)
+        {
+            _connectionString = configuration.GetConnectionString("DefaultConnection")!;
+        }
+
+        public StudentPagedResult GetStudentsPaged(int pageNumber, int pageSize = 5)
+        {
+            var result = new StudentPagedResult { PageNumber = pageNumber };
+
+            using var connection = new SqlConnection(_connectionString);
+            using var command = new SqlCommand("sp_GetStudentsPaged", connection);
+            command.CommandType = CommandType.StoredProcedure;
+            command.Parameters.AddWithValue("@PageNumber", pageNumber);
+            command.Parameters.AddWithValue("@PageSize", pageSize);
+
+            connection.Open();
+            using var reader = command.ExecuteReader();
+
+            if (reader.Read())
+            {
+                int totalCount = reader.GetInt32(0);
+                result.TotalPages = (int)Math.Ceiling((double)totalCount / pageSize);
+            }
+
+            reader.NextResult();
+
+            while (reader.Read())
+            {
+                result.Students.Add(new Student
+                {
+                    Id = reader.GetInt32(0),
+                    Name = reader.GetString(1),
+                    Age = reader.GetInt32(2),
+                    City = reader.GetString(3)
+                });
+            }
+
+            return result;
+        }
+    }
+}
