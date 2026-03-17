@@ -1,0 +1,6 @@
+@NumberPublisherService_HostAddress = http://localhost:5223
+
+GET {{NumberPublisherService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CubeService/CubeService.csproj" />
+  <Project Path="NumberPublisherService/NumberPublisherService.csproj" />
+  <Project Path="SquareService/SquareService.csproj" />
+</Solution>
