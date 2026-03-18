@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StudentInsightsService/StudentInsightsService.csproj" />
+  <Project Path="StudentService/StudentService.csproj" />
+</Solution>
